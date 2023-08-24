@@ -22,7 +22,7 @@
 [![](https://visitcount.itsvg.in/api?id=JoseMorales714&icon=3&color=2)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/josemorales.net) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/josemorales.net) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
